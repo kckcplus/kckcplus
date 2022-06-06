@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kenneth
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript and Vue.js
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Web development related company
 - 📫 How to reach me ... My E-mail: kckcplus@gmail.com
 
